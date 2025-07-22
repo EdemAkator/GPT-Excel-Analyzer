@@ -1,0 +1,6 @@
+openai
+pandas
+streamlit
+openpyxl
+pillow
+openpyxl-image-loader
